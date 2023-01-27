@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @william1east
-- 👀 I’m interested in Coding games and stuff
-- 🌱 I’m currently learning Lua Script
-- 💞️ I’m looking to collaborate on any project i have experiance on
-- 📫 Email me at kat.inbox.pulic@gmail.com or catch me on discord (A F**king Kat#4677)
+I get high on caffine and program like an idiot
